@@ -3,7 +3,7 @@ const { createApp } = Vue;
 createApp ({
     data() {
         return {
-            text : `Un po' di gatti per rallegrare la vostra giornata ;)`,
+            text : `Because cats!`,
             imgsUrls : [
                 'https://www.breatheazy.co.uk/wp-content/uploads/2023/09/Untitled-design-35-1080x675.png',
                 './img/cat-christmas-tree-lights.jpg',
